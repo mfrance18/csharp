@@ -1,0 +1,16 @@
+C:\Users\trump\workspace\csharp\wish-list\bin\Debug\net5.0\wish-list.exe
+C:\Users\trump\workspace\csharp\wish-list\bin\Debug\net5.0\wish-list.deps.json
+C:\Users\trump\workspace\csharp\wish-list\bin\Debug\net5.0\wish-list.runtimeconfig.json
+C:\Users\trump\workspace\csharp\wish-list\bin\Debug\net5.0\wish-list.runtimeconfig.dev.json
+C:\Users\trump\workspace\csharp\wish-list\bin\Debug\net5.0\wish-list.dll
+C:\Users\trump\workspace\csharp\wish-list\bin\Debug\net5.0\ref\wish-list.dll
+C:\Users\trump\workspace\csharp\wish-list\bin\Debug\net5.0\wish-list.pdb
+C:\Users\trump\workspace\csharp\wish-list\obj\Debug\net5.0\wish-list.csproj.AssemblyReference.cache
+C:\Users\trump\workspace\csharp\wish-list\obj\Debug\net5.0\wish-list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trump\workspace\csharp\wish-list\obj\Debug\net5.0\wish-list.AssemblyInfoInputs.cache
+C:\Users\trump\workspace\csharp\wish-list\obj\Debug\net5.0\wish-list.AssemblyInfo.cs
+C:\Users\trump\workspace\csharp\wish-list\obj\Debug\net5.0\wish-list.csproj.CoreCompileInputs.cache
+C:\Users\trump\workspace\csharp\wish-list\obj\Debug\net5.0\wish-list.dll
+C:\Users\trump\workspace\csharp\wish-list\obj\Debug\net5.0\ref\wish-list.dll
+C:\Users\trump\workspace\csharp\wish-list\obj\Debug\net5.0\wish-list.pdb
+C:\Users\trump\workspace\csharp\wish-list\obj\Debug\net5.0\wish-list.genruntimeconfig.cache
