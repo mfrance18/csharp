@@ -11,7 +11,6 @@ namespace Books
             {
                 Name = "Harry Potter and the Chamber of Secrets",
                 Author = "J.K. Rowling",
-                IsCheckedOut = false,
             };
 
             newBook.CheckOut();
