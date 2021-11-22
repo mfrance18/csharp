@@ -1,0 +1,16 @@
+C:\Users\trump\workspace\csharp\books\bin\Debug\net5.0\Books.exe
+C:\Users\trump\workspace\csharp\books\bin\Debug\net5.0\Books.deps.json
+C:\Users\trump\workspace\csharp\books\bin\Debug\net5.0\Books.runtimeconfig.json
+C:\Users\trump\workspace\csharp\books\bin\Debug\net5.0\Books.runtimeconfig.dev.json
+C:\Users\trump\workspace\csharp\books\bin\Debug\net5.0\Books.dll
+C:\Users\trump\workspace\csharp\books\bin\Debug\net5.0\ref\Books.dll
+C:\Users\trump\workspace\csharp\books\bin\Debug\net5.0\Books.pdb
+C:\Users\trump\workspace\csharp\books\obj\Debug\net5.0\Books.csproj.AssemblyReference.cache
+C:\Users\trump\workspace\csharp\books\obj\Debug\net5.0\Books.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trump\workspace\csharp\books\obj\Debug\net5.0\Books.AssemblyInfoInputs.cache
+C:\Users\trump\workspace\csharp\books\obj\Debug\net5.0\Books.AssemblyInfo.cs
+C:\Users\trump\workspace\csharp\books\obj\Debug\net5.0\Books.csproj.CoreCompileInputs.cache
+C:\Users\trump\workspace\csharp\books\obj\Debug\net5.0\Books.dll
+C:\Users\trump\workspace\csharp\books\obj\Debug\net5.0\ref\Books.dll
+C:\Users\trump\workspace\csharp\books\obj\Debug\net5.0\Books.pdb
+C:\Users\trump\workspace\csharp\books\obj\Debug\net5.0\Books.genruntimeconfig.cache
